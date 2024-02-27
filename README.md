@@ -2,7 +2,7 @@
 <h3 align="center">I'm passionate and motivate web developer.</h3>
 
 <p align="center">
-  👨‍🎓 Future Software Engineer.
+  👨‍🎓 Software Engineer.
   <br/>
   🌱 I love learning new things about web development.
 </p>
